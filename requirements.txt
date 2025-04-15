@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+# chromadb
+ollama
+tiktoken
+unstructured
+pypdf
+python-docx
+faiss-cpu
+torch==2.1.0
+numpy==1.24.4
+sentence-transformers
